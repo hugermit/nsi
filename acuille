@@ -1,0 +1,32 @@
+<html>
+<link rel="shorcut icon" href="a.jpg"/ </link>
+<style type="text/css">
+			body {
+				font-family: sans-serif;
+				background-color:#A5DF00;
+				margin: 0;
+			}
+
+			h1 {
+				font-size: 150%;
+				color:blue;
+				text-align: center;
+				font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+				font-style: italic;
+			}
+			b {
+				font-family:Arial,sans-serif;
+			}
+			title{
+				font-family: sans-serif;
+			}
+
+			p {
+				font-size: 14px;
+				color: #333333;
+				margin-left: 10px;
+			}
+		S</style>
+		<h2><center>ce ci est l'acuille , et le lycée monod vous ratio</center></h2>
+		<center> <img src="C:\Users\eleve\Documents\html et css\ratio.jpg" width=900 height=550 > </center>
+		<center> <h1> <a href="nsi.html"> retourner ici pour plus de maturité et de programation  </a> </h1> </center>
